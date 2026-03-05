@@ -1,1 +1,5 @@
-
+# Temperature Effect on Diode Behavior
+The diode was simulated at 25 °C and 75 °C using a DC sweep from 0 V to 5 V. At 25 °C, the diode began conducting at approximately 0.6–0.7 V, which is the typical forward turn-on voltage for a silicon diode. The current increased rapidly after this threshold, showing the expected exponential behavior.
+When the temperature increased to 75 °C, noticeable changes occurred. The diode began conducting at a lower voltage (before 0.5–0.6 V), indicating that the forward voltage decreases as temperature rises. Additionally, the reverse and low-bias current levels increased compared to the 25 °C simulation. This happens because higher temperature increases the energy of charge carriers and raises the intrinsic carrier concentration inside the semiconductor material.
+Temperature affects diode behavior because the PN junction barrier potential decreases as temperature increases. As a result, less voltage is required to forward-bias the diode, and leakage current increases under reverse bias conditions.
+This is important in real electronic systems because temperature variations can change voltage levels, increase power dissipation, and potentially cause instability or thermal runaway. Engineers must account for temperature effects to ensure reliable and safe circuit operation.
