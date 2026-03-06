@@ -2,7 +2,6 @@
 
 Name:Nelson E Ndu
 
-Simulation Settings:
 AC Source: SINE(0 10 50)  
 Transient Analysis: .tran 40ms
 
