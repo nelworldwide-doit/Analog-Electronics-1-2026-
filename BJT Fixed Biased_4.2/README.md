@@ -5,4 +5,4 @@ VCE =14.9 V,
 VB = 0.7 V,
 VE = 0 V,
 VBC = -14.2 V,
-BJT is in active region as VBE is forward biased and VBC is reversed biased.
+BJT is in active region as VBE is forward biased and VBC is reverse biased.
